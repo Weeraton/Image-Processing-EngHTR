@@ -1,0 +1,4 @@
+This Project About Handwriting Text Recognition(HTR) In English
+- Model   => CNN - RNN
+- Model 2 => Normalization - STN - CNN - RNN
+- Model 3 => Normalization - CNN - RNN
